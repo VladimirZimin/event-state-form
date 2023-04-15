@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/event-state-form/static/css/main.b7d0ba3d.css",
+    "main.js": "/event-state-form/static/js/main.f2abe288.js",
+    "index.html": "/event-state-form/index.html",
+    "main.b7d0ba3d.css.map": "/event-state-form/static/css/main.b7d0ba3d.css.map",
+    "main.f2abe288.js.map": "/event-state-form/static/js/main.f2abe288.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d0ba3d.css",
+    "static/js/main.f2abe288.js"
+  ]
+}
